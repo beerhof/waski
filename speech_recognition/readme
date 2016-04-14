@@ -1,0 +1,6 @@
+﻿command, command.info in ~/.config/blather will be created after first run
+Go to http://www.speech.cs.cmu.edu/tools/lmtool.html upload file sentences.corpus 
+Download the *.dic and *.lm files and copy them to config dir 
+Commands are configured in commands and command.info files. 
+HOW: SOME_SPOKEN_COMMAND: SOME_BEHAVIOUR (bash)
+
